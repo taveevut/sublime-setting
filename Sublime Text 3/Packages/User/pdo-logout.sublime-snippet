@@ -1,0 +1,11 @@
+<snippet>
+		<content><![CDATA[
+	session_start();
+	session_destroy(); // คำสั่งลบค่า session
+
+	header("Location:index.php");
+	]]></content>
+		<description>PDO :: Logout</description>
+		<scope>source.php</scope>
+		<tabTrigger>pdo-logout</tabTrigger>
+</snippet>

@@ -1,0 +1,18 @@
+{
+	"autocomplete": false,
+	"disable_auto_align": true,
+	"format_on_save": false,
+	"indent_with_space": 2,
+	"passes":
+	[
+		"AlignGroupDoubleArrow",
+		"ConvertOpenTagWithEcho",
+		"IndentTernaryConditions",
+		"MergeElseIf",
+		"NewLineBeforeReturn",
+		"RemoveSemicolonAfterCurly",
+		"ReplaceBooleanAndOr"
+	],
+	"psr1": false,
+	"version": 1
+}

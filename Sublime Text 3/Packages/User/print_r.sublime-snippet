@@ -1,0 +1,9 @@
+<snippet>
+		<content><![CDATA[echo '<pre>'; 
+	print_r(${1:\$_POST}); 
+echo '</pre>';
+exit();]]></content>
+		<description>PHP: Pretty print_r</description>
+		<scope>source.php</scope>
+		<tabTrigger>prev</tabTrigger>
+</snippet>

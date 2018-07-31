@@ -1,0 +1,7 @@
+<snippet>
+  <!-- put this file in /packages/User/<Folder Name>/console_log.sublime-snippet then restart your Sublime Text 2 -->
+  <content><![CDATA[event.preventDefault();]]></content>
+  <tabTrigger>event.prev</tabTrigger>
+  <scope>text.html,source.js</scope>
+  <description>event.preventDefault()</description>
+</snippet>

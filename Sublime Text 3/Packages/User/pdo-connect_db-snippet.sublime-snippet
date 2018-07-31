@@ -1,0 +1,22 @@
+<snippet>
+	<content><![CDATA[
+	ob_start();
+	session_start();//เรื่มต้น session
+	date_default_timezone_set("Asia/Bangkok");
+	\$db_host = "localhost";
+	\$db_user = "${1:root}";
+	\$db_name = "${2:booking_room}";
+	\$db_pass = "${3:1234@#+}";
+
+	try{
+    \$db_con = new PDO("mysql:host={\$db_host};dbname={\$db_name}",\$db_user,\$db_pass);
+    \$db_con->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    \$db_con->exec("set names utf8");
+	}
+	catch(PDOException \$e){
+		echo \$e->getMessage();
+	}]]></content>
+	<description>PDO :: Connect database</description>
+	<scope>source.php</scope>
+	<tabTrigger>pdo-connectdb</tabTrigger>
+</snippet>

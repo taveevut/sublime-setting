@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+<!--/${1:Section comment} -->
+$21
+<!--/.${1:Section comment} -->
+]]></content>
+	<tabTrigger>comm-html-section</tabTrigger>
+	<description>Comment - HTML section</description>
+</snippet>

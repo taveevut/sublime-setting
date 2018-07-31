@@ -1,0 +1,20 @@
+<snippet>
+		<content><![CDATA[
+	\$stmt = ${1:\$db_con}->prepare("UPDATE ${2:tbname} SET ${3:id} = :${3:id} WHERE ${4:id} = :${4:id} ");
+	\$stmt->bindParam(':${3:id}', \$_POST["${3:\:id}"]);
+	\$stmt->bindParam(':${4:id}', \$_POST["${4:\:id}"]);
+	\$result = \$stmt->execute();
+	if(\$result){
+		\$_SESSION['alt']['message'] = 'ระบบทำการแก้ไขข้อมูลได้สำเร็จ';
+		\$_SESSION['alt']['type'] = 'success';
+	}
+	else{
+		\$_SESSION['alt']['message'] = 'เกิดข้อผิดพลาดในระหว่างการแก้ไขข้อมูล กรุณาตรวจสอบใหม่อีกครั้ง';
+		\$_SESSION['alt']['type'] = 'warning';
+	}
+
+	header("Location:".site_url('index.php'));]]></content>
+		<description>PDO :: Update value</description>
+		<scope>source.php</scope>
+		<tabTrigger>pdo-update</tabTrigger>
+</snippet>

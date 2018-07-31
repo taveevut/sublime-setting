@@ -1,0 +1,12 @@
+<snippet>
+		<content><![CDATA[
+	\$stmt = ${1:\$db_con}->prepare("SELECT * FROM ${2:tbname} WHERE ${3:id} = :${3:id} ORDER BY ${4:id} DESC");
+	\$stmt->bindParam(':${3:id}', \$_POST["${3:\:id}"]);
+	\$stmt->execute();
+	while (\$rows = \$stmt->fetch(PDO::FETCH_ASSOC)) {
+		echo \$rows['id'];
+	}]]></content>
+		<description>PDO :: Select Where values</description>
+		<scope>source.php</scope>
+		<tabTrigger>pdo-select-where</tabTrigger>
+</snippet>

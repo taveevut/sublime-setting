@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"AngularJS",
+		"AngularJS Snippets",
+		"Auto Close HTML Tags",
+		"Autoprefixer",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 4 Autocomplete",
+		"CodeIgniter Snippets",
+		"Color Scheme - Legacy",
+		"CSS Format",
+		"HTML5",
+		"HTMLAttributes",
+		"jQuery",
+		"JsFormat",
+		"LoremIpsum",
+		"Minifier",
+		"Package Control",
+		"phpfmt",
+		"PHPSnippets",
+		"SideBarEnhancements"
+	]
+}

@@ -1,0 +1,8 @@
+<snippet>
+		<content><![CDATA[
+	\$stmt->bindParam(':${1:id}', \$_POST["${1:\:id}"]);
+	]]></content>
+		<description>PDO :: bindParam(param,value)</description>
+		<scope>source.php</scope>
+		<tabTrigger>pdo-bindParam</tabTrigger>
+</snippet>

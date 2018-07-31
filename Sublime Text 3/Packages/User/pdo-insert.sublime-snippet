@@ -1,0 +1,19 @@
+<snippet>
+		<content><![CDATA[
+	\$stmt = ${1:\$db_con}->prepare("INSERT INTO ${2:tbname} (${3:id}) VALUES (:${3:id}) ");
+	\$stmt->bindParam(':${3:id}', \$_POST["${3:\:id}"]);
+	\$result = \$stmt->execute();
+	if(\$result){
+		\$_SESSION['alt']['message'] = 'ระบบทำการบันทึกข้อมูลได้สำเร็จ';
+		\$_SESSION['alt']['type'] = 'success';
+	}
+	else{
+		\$_SESSION['alt']['message'] = 'เกิดข้อผิดพลาดในระหว่างการบันทึกข้อมูล กรุณาตรวจสอบใหม่อีกครั้ง';
+		\$_SESSION['alt']['type'] = 'warning';
+	}
+
+	header("Location:".site_url('index.php'));]]></content>
+		<description>PDO :: Add value</description>
+		<scope>source.php</scope>
+		<tabTrigger>pdo-insert</tabTrigger>
+</snippet>

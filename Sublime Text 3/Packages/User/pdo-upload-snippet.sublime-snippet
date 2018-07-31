@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+	\$id = ${1:\$db_con->lastInsertId()}; 
+	\$tmp_name = \$_FILES["file"]["tmp_name"];
+	\$name = \$_FILES["file"]["name"];
+	\$ext = explode(".", \$name);
+	\$rename = rand(1,99999).time().'.' .end(\$ext);
+	if(move_uploaded_file(\$tmp_name,"../uploads/${2:rooms}/".\$rename)){
+		\$stm = ${3:\$db_con}->prepare("UPDATE ${4:tbname} SET ${5:id} = :${5:id} WHERE ${6:id} = :${6:id}");
+		\$stmt->bindParam(':${5:id}', \$_POST["${5:\:id}"]);
+		\$stmt->bindParam(':${6:id}', \$_POST["${6:\:id}"]);
+		\$result = \$stm->execute();
+	}]]></content>
+	<description>PDO :: Upload File</description>
+	<scope>source.php</scope>
+	<tabTrigger>pdo-upload</tabTrigger>
+</snippet>

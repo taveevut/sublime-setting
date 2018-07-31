@@ -1,0 +1,1484 @@
+{
+	"folder_history":
+	[
+		"/D/xampp/htdocs/sys-savings",
+		"/D/xampp/htdocs/web-ascarrentphuket",
+		"/D/xampp/htdocs/web-takbaihospital",
+		"/C/Users/NAKOMAH-STUDIO/Desktop/vscode-config",
+		"/D/xampp/htdocs/web-mediasalatan",
+		"/D/xampp/htdocs/CI_Excel",
+		"/C/Users/NAKOMAH-STUDIO/Desktop/MediaElementJS",
+		"/D/xampp/htdocs/web-mediasalatan/assets/html5-audio",
+		"/D/xampp/htdocs/html5-audio-player",
+		"/D/xampp/htdocs/framework",
+		"/D/xampp/htdocs/jPlayer-2.9.2",
+		"/D/xampp/htdocs/chartJS",
+		"/D/xampp/htdocs/sys-classroom",
+		"/C/Users/NAKOMAH-STUDIO/Desktop/Codeigniter-Database-Driven-Route",
+		"/D/xampp/htdocs/web-nakomah",
+		"/D/xampp2/htdocs/web-catefis",
+		"/D/xampp/htdocs/sys-examine"
+	],
+	"last_version": 3176,
+	"last_window_id": 34,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"_p",
+						"_post\tCI - $_POST"
+					],
+					[
+						"_",
+						"_SS\tPHP: SESSION['...']"
+					],
+					[
+						"load",
+						"load_library\tCI - Load Library"
+					],
+					[
+						"add",
+						"addClass\t.addClass()"
+					],
+					[
+						"wi",
+						"width\tproperty"
+					],
+					[
+						"sit",
+						"site_asset_js_url\tURL Helper - site_asset_js_url"
+					],
+					[
+						"min",
+						"min-height\tproperty"
+					],
+					[
+						"pad",
+						"padding-bottom\tproperty"
+					],
+					[
+						"pa",
+						"padding-top\tproperty"
+					],
+					[
+						"loa",
+						"load_view\tCI - Load View"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"max",
+						"maxlength\tAttr"
+					],
+					[
+						"col",
+						"color\tproperty"
+					],
+					[
+						"ba",
+						"background\tproperty"
+					],
+					[
+						"php",
+						"php\tPHTML: <?php ... ?>"
+					],
+					[
+						"ma",
+						"margin-bottom\tproperty"
+					],
+					[
+						"table",
+						"table-cell\tdisplay"
+					],
+					[
+						"di",
+						"display\tproperty"
+					],
+					[
+						"fot",
+						"font-size\tproperty"
+					],
+					[
+						"texta",
+						"text-align\tproperty"
+					],
+					[
+						"img",
+						"img\tTag"
+					],
+					[
+						"font",
+						"font-weight\tproperty"
+					],
+					[
+						"li",
+						"list-style\tproperty"
+					],
+					[
+						"F",
+						"FALSE"
+					],
+					[
+						"insert",
+						"inserted_id"
+					],
+					[
+						"ng-lc",
+						"ng-click\tAngularJS"
+					],
+					[
+						"fie",
+						"fieldset\tTag"
+					],
+					[
+						"artic",
+						"article_model"
+					],
+					[
+						"text-wr",
+						"text-nowrap \tBootstrap 4 Class"
+					],
+					[
+						"lang",
+						"language-label\tLanguage :: Language label"
+					],
+					[
+						"la",
+						"language-label\tLanguage :: Language label"
+					],
+					[
+						"su",
+						"subject"
+					],
+					[
+						"sitead",
+						"site_admin_url\tURL Helper - site_admin_url"
+					],
+					[
+						"style",
+						"style\tAttr"
+					],
+					[
+						"stl",
+						"style\tAttr"
+					],
+					[
+						"ce",
+						"cellspacing\tAttr"
+					],
+					[
+						"meta",
+						"meta\tTag"
+					],
+					[
+						"me",
+						"meta\t<meta name=\"\" content=\"\">"
+					],
+					[
+						"met",
+						"meter\tTag"
+					],
+					[
+						"ngd",
+						"ng-disabled\tAngularJS"
+					],
+					[
+						"ngs",
+						"ng-show\tAngularJS"
+					],
+					[
+						"ng-ke",
+						"ng-keyup\tAngularJS"
+					],
+					[
+						"bo",
+						"booking_models"
+					],
+					[
+						"_F",
+						"_FILES"
+					],
+					[
+						"fn",
+						"fn_models"
+					],
+					[
+						"he",
+						"help-block \tBootstrap 3 Class"
+					],
+					[
+						"booking",
+						"bookings"
+					],
+					[
+						"_po",
+						"_post\tCI - $_POST"
+					],
+					[
+						"td",
+						"td\tTag"
+					],
+					[
+						"g",
+						"get\t.get()"
+					],
+					[
+						"btn",
+						"btn-danger \tBootstrap 3 Class"
+					],
+					[
+						"text-w",
+						"text-nowrap \tBootstrap 4 Class"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"ses",
+						"session_destroy"
+					],
+					[
+						"flo",
+						"floor"
+					],
+					[
+						"pul",
+						"pull-right \tBootstrap 3 Class"
+					],
+					[
+						"form",
+						"form-control \tBootstrap 3 Class"
+					],
+					[
+						"colmd",
+						"col-md-10 \tBootstrap 3 Class"
+					],
+					[
+						"$sc",
+						"$scope\tAngularJS"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"se",
+						"serialize"
+					],
+					[
+						"btn-d",
+						"btn-default \tBootstrap 3 Class"
+					],
+					[
+						"uns",
+						"unset"
+					],
+					[
+						"text",
+						"text-align\tproperty"
+					],
+					[
+						"inlin",
+						"inline-block\tdisplay"
+					],
+					[
+						"col-md",
+						"col-md-12 \tBootstrap 3 Class"
+					],
+					[
+						"site_admin",
+						"site_admin_url\tURL Helper - site_admin_url"
+					],
+					[
+						"text-",
+						"text-danger \tBootstrap 3 Class"
+					],
+					[
+						"pri",
+						"print_r"
+					],
+					[
+						"strto",
+						"strtotime"
+					],
+					[
+						"ex",
+						"exit"
+					],
+					[
+						"site_",
+						"site_uploads_url\tURL Helper - site_uploads_url"
+					],
+					[
+						"blo",
+						"block\tdisplay"
+					],
+					[
+						"is",
+						"isset"
+					],
+					[
+						"_s",
+						"_S\tPHP: SERVER['...']"
+					],
+					[
+						"for",
+						"foreach\tPHP: foreach {value} statement"
+					],
+					[
+						"op",
+						"option\tTag"
+					],
+					[
+						"a",
+						"a\t<a>"
+					],
+					[
+						"pre",
+						"prev\tPHP: Pretty print_r"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"php",
+						"phpfmt: toggle PSR1"
+					],
+					[
+						"mini",
+						"Minify Javascript/CSS to file"
+					],
+					[
+						"l",
+						"LoremIpsum: (15) some"
+					],
+					[
+						"auto",
+						"Autoprefix CSS"
+					],
+					[
+						"autof",
+						"Autoprefix CSS"
+					],
+					[
+						"html",
+						"HTML: Encode Special Characters"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib2,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') ",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/User/phpfmt.sublime-settings",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/sublime-config/Packages/phpfmt/phpfmt.sublime-settings",
+				"/D/xampp/htdocs/sys-savings/application/controllers/administrator/Authenticate_admin.php",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/phpfmt/phpfmt.sublime-settings",
+				"/D/xampp/htdocs/sys-savings/assets/js/jui-sortable.js",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/Colorsublime-Themes/Twilight NAKOMAH.tmTheme",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/Colorsublime-Themes/Monokai Bright.tmTheme",
+				"/D/xampp/htdocs/sys-savings/application/views/administrator/members/add.php",
+				"/D/xampp/htdocs/sys-savings/assets/js/app.incomes.validate.js",
+				"/D/xampp/htdocs/sys-savings/application/controllers/administrator/Members_admin.php",
+				"/D/xampp/htdocs/web-mediasalatan/Gruntfile.js",
+				"/D/xampp/htdocs/sys-examine/application/controllers/role-user/Question_user.php",
+				"/D/xampp/htdocs/web-ascarrentphuket/application/config/hooks.php",
+				"/D/xampp/htdocs/web-ascarrentphuket/application/hooks/LanguageLoader.php",
+				"/D/xampp/htdocs/web-ascarrentphuket/application/config/config.php",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Local/Temp/fz3temp-2/database.php",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Local/Temp/fz3temp-2/index.php",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/vscode-config/settings.json",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/vscode-config/snippets/php.json",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/vscode-config/snippets/javascript.json",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/vscode-config/README.md",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/codeignier-mpdf-master/codeignier-mpdf-master/application/libraries/M_pdf.php",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/codeignier-mpdf-master/codeignier-mpdf-master/application/controllers/welcome.php",
+				"/D/xampp/htdocs/web-takbaihospital/application/helpers/general_helper.php",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Local/Temp/fz3temp-2/config.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/authenticate/add.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/authenticate/edit.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/sidebar.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/libraries/Sidemenu.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/Fn_models.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/footer.php",
+				"/D/xampp/htdocs/CI_Excel/application/controllers/Welcome.php",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/User/event.prev.sublime-snippet",
+				"/D/xampp/htdocs/web-ascarrentphuket/assets/ckfile/ckeditor/config.js",
+				"/D/xampp/htdocs/web-ascarrentphuket/application/views/role-admin/car/index.php",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/CI_Excel/README.md",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/MediaElementJS/index.html",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/MediaElementJS/README.md",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/live-radio.php",
+				"/D/xampp/htdocs/web-mediasalatan/assets/html5-audio/js/mediaelementplayer-custom.js",
+				"/D/xampp/htdocs/web-mediasalatan/assets/html5-audio/css/mediaelementplayer-custom.css",
+				"/D/xampp/htdocs/web-mediasalatan/assets/css/frontend/style.css",
+				"/D/xampp/htdocs/web-mediasalatan/assets/html5-audio/css/mediaelementplayer-custom.min.css",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/video/view.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/video/index.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/news/view.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/news/index.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/gallery/view.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/gallery/index.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/banner/view.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/advertising/view.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/article/view.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/article/index.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/menu.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/contact-us.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/controllers/News.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/controllers/Menu.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/config/routes.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/header.php",
+				"/D/xampp/htdocs/web-mediasalatan/assets/css/frontend/mediaelementplayer-radio.css",
+				"/D/xampp/htdocs/web-mediasalatan/assets/js/frontend/mediaelementplayer-radio.js",
+				"/D/xampp/htdocs/html5-audio-player/demo/index.html",
+				"/D/xampp/htdocs/framework/index.php",
+				"/D/xampp/htdocs/framework/js/SSUhtml5Audio.js",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/index.php",
+				"/D/xampp/htdocs/web-mediasalatan/assets/css/flexslider_style.css",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/head.php",
+				"/D/xampp/htdocs/web-mediasalatan/assets/css/frontend/style.min.css",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/index.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/head.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/footer.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/youtube/add.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/youtube/edit.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/news/add.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/news/edit.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/gallery/add.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/gallery/edit.php",
+				"/D/xampp/htdocs/web-nakomah/Gruntfile.js",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/Gallery_models.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/News_models.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/Article_models.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/Advertising_models.php",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Local/Temp/fz3temp-2/.htaccess",
+				"/D/xampp/htdocs/jPlayer-2.9.2/demo.php",
+				"/D/xampp/htdocs/web-mediasalatan/assets/bootstrap/css/bootstrap_none.response.css",
+				"/D/xampp/htdocs/web-mediasalatan/assets/bootstrap/css/bootstrap_none.response.min.css",
+				"/D/xampp/htdocs/web-mediasalatan/application/controllers/ContactUs.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/Menutop_models.php",
+				"/D/xampp/htdocs/web-takbaihospital/application/config/routes.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/config/autoload.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/controllers/Banner.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/navigation.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/controllers/Video.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/Youtube_models.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/helpers/general_helper.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/controllers/Main.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/index_2.php",
+				"/D/xampp/htdocs/web-takbaihospital/application/views/gallery_view.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/controllers/Gallery.php",
+				"/D/xampp/htdocs/web-takbaihospital/application/views/index.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/controllers/Advertising.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/backend/Advertising_models.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/controllers/Article.php",
+				"/D/xampp/htdocs/web-nakomah/application/controllers/Article.php",
+				"/D/xampp/htdocs/web-nakomah/application/models/Article_model.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/controllers/admin/Article_admin.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/article/edit.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/article/add.php",
+				"/D/xampp/htdocs/sys-savings/application/views/administrator/incomes/add.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/backend/Article_models.php",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/transfonter.org-20180719-101257/stylesheet.css",
+				"/D/xampp/htdocs/web-mediasalatan/application/config/config.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/index3.php",
+				"/D/xampp/htdocs/web-mediasalatan/assets/FlexSlider-2.7.1-0/demo/index.html",
+				"/D/xampp/htdocs/web-takbaihospital/application/views/head.php",
+				"/D/xampp/htdocs/web-takbaihospital/application/views/navigation.php",
+				"/D/xampp/htdocs/web-takbaihospital/application/views/header.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/config/constants.php",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/transfonter.org-20180719-032053/stylesheet.css",
+				"/D/xampp/htdocs/web-ascarrentphuket/application/views/index.php",
+				"/D/xampp/htdocs/web-ascarrentphuket/assets/css/front-end/style.css",
+				"/D/xampp/htdocs/web-ascarrentphuket/assets/css/front-end/style_th.css",
+				"/D/xampp/htdocs/web-ascarrentphuket/application/views/head.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/backend/Youtube_models.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/backend/News_models.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/Banner_models.php"
+			],
+			"find":
+			{
+				"height": 41.0
+			},
+			"find_in_files":
+			{
+				"height": 157.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"fmt_now"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 41.0
+			},
+			"input":
+			{
+				"height": 57.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 78.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"js",
+						"assets\\js\\jui-sortable.js"
+					],
+					[
+						"app.",
+						"assets\\js\\app.incomes.validate.js"
+					],
+					[
+						"add.php",
+						"application\\views\\administrator\\members\\add.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 592.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 276.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"_p",
+						"_post\tCI - $_POST"
+					],
+					[
+						"_",
+						"_SS\tPHP: SESSION['...']"
+					],
+					[
+						"load",
+						"load_library\tCI - Load Library"
+					],
+					[
+						"add",
+						"addClass\t.addClass()"
+					],
+					[
+						"wi",
+						"width\tproperty"
+					],
+					[
+						"sit",
+						"site_asset_js_url\tURL Helper - site_asset_js_url"
+					],
+					[
+						"min",
+						"min-height\tproperty"
+					],
+					[
+						"pad",
+						"padding-bottom\tproperty"
+					],
+					[
+						"pa",
+						"padding-top\tproperty"
+					],
+					[
+						"loa",
+						"load_view\tCI - Load View"
+					],
+					[
+						"va",
+						"value"
+					],
+					[
+						"max",
+						"maxlength\tAttr"
+					],
+					[
+						"col",
+						"color\tproperty"
+					],
+					[
+						"ba",
+						"background\tproperty"
+					],
+					[
+						"php",
+						"php\tPHTML: <?php ... ?>"
+					],
+					[
+						"ma",
+						"margin-bottom\tproperty"
+					],
+					[
+						"table",
+						"table-cell\tdisplay"
+					],
+					[
+						"di",
+						"display\tproperty"
+					],
+					[
+						"fot",
+						"font-size\tproperty"
+					],
+					[
+						"texta",
+						"text-align\tproperty"
+					],
+					[
+						"img",
+						"img\tTag"
+					],
+					[
+						"font",
+						"font-weight\tproperty"
+					],
+					[
+						"li",
+						"list-style\tproperty"
+					],
+					[
+						"F",
+						"FALSE"
+					],
+					[
+						"insert",
+						"inserted_id"
+					],
+					[
+						"ng-lc",
+						"ng-click\tAngularJS"
+					],
+					[
+						"fie",
+						"fieldset\tTag"
+					],
+					[
+						"artic",
+						"article_model"
+					],
+					[
+						"text-wr",
+						"text-nowrap \tBootstrap 4 Class"
+					],
+					[
+						"lang",
+						"language-label\tLanguage :: Language label"
+					],
+					[
+						"la",
+						"language-label\tLanguage :: Language label"
+					],
+					[
+						"su",
+						"subject"
+					],
+					[
+						"sitead",
+						"site_admin_url\tURL Helper - site_admin_url"
+					],
+					[
+						"style",
+						"style\tAttr"
+					],
+					[
+						"stl",
+						"style\tAttr"
+					],
+					[
+						"ce",
+						"cellspacing\tAttr"
+					],
+					[
+						"meta",
+						"meta\tTag"
+					],
+					[
+						"me",
+						"meta\t<meta name=\"\" content=\"\">"
+					],
+					[
+						"met",
+						"meter\tTag"
+					],
+					[
+						"ngd",
+						"ng-disabled\tAngularJS"
+					],
+					[
+						"ngs",
+						"ng-show\tAngularJS"
+					],
+					[
+						"ng-ke",
+						"ng-keyup\tAngularJS"
+					],
+					[
+						"bo",
+						"booking_models"
+					],
+					[
+						"_F",
+						"_FILES"
+					],
+					[
+						"fn",
+						"fn_models"
+					],
+					[
+						"he",
+						"help-block \tBootstrap 3 Class"
+					],
+					[
+						"booking",
+						"bookings"
+					],
+					[
+						"_po",
+						"_post\tCI - $_POST"
+					],
+					[
+						"td",
+						"td\tTag"
+					],
+					[
+						"g",
+						"get\t.get()"
+					],
+					[
+						"btn",
+						"btn-danger \tBootstrap 3 Class"
+					],
+					[
+						"text-w",
+						"text-nowrap \tBootstrap 4 Class"
+					],
+					[
+						"print",
+						"print_r"
+					],
+					[
+						"ses",
+						"session_destroy"
+					],
+					[
+						"flo",
+						"floor"
+					],
+					[
+						"pul",
+						"pull-right \tBootstrap 3 Class"
+					],
+					[
+						"form",
+						"form-control \tBootstrap 3 Class"
+					],
+					[
+						"colmd",
+						"col-md-10 \tBootstrap 3 Class"
+					],
+					[
+						"$sc",
+						"$scope\tAngularJS"
+					],
+					[
+						"json",
+						"json_encode"
+					],
+					[
+						"se",
+						"serialize"
+					],
+					[
+						"btn-d",
+						"btn-default \tBootstrap 3 Class"
+					],
+					[
+						"uns",
+						"unset"
+					],
+					[
+						"text",
+						"text-align\tproperty"
+					],
+					[
+						"inlin",
+						"inline-block\tdisplay"
+					],
+					[
+						"col-md",
+						"col-md-12 \tBootstrap 3 Class"
+					],
+					[
+						"site_admin",
+						"site_admin_url\tURL Helper - site_admin_url"
+					],
+					[
+						"text-",
+						"text-danger \tBootstrap 3 Class"
+					],
+					[
+						"pri",
+						"print_r"
+					],
+					[
+						"strto",
+						"strtotime"
+					],
+					[
+						"ex",
+						"exit"
+					],
+					[
+						"site_",
+						"site_uploads_url\tURL Helper - site_uploads_url"
+					],
+					[
+						"blo",
+						"block\tdisplay"
+					],
+					[
+						"is",
+						"isset"
+					],
+					[
+						"_s",
+						"_S\tPHP: SERVER['...']"
+					],
+					[
+						"for",
+						"foreach\tPHP: foreach {value} statement"
+					],
+					[
+						"op",
+						"option\tTag"
+					],
+					[
+						"a",
+						"a\t<a>"
+					],
+					[
+						"pre",
+						"prev\tPHP: Pretty print_r"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/xampp/htdocs/sys-savings/application/controllers/administrator/Members_admin.php",
+					"settings":
+					{
+						"buffer_size": 10807,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/xampp/htdocs/sys-savings/application/views/administrator/members/advanced-setting.php",
+					"settings":
+					{
+						"buffer_size": 2436,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"contents": "{\n\t// indicates tags whose contents should be ignored (add more as needed)\n\t\"ignored_tag_opening\" : \"<script|<style|<!--|{\\\\*|<\\\\?php\",\n\t// indicates when to stop ignoring\n\t\"ignored_tag_closing\" : \"</script|</style|-->|\\\\*}|\\\\?>\",\n\n\t// the contents of these tag blocks will be indented (add/remove as desired)\n\t\"tag_indent\":\n\t\"\\\\{% (if|for|block|else|spaceless)|<html|<head|<body|<div|<a|<nav|<ul|<ol|<dl|<li|<table|<thead|<tbody|<tr|<th|<td|<blockquote|<select|<form|<option|<optgroup|<fieldset|<legend|<label|<header|<main|<section|<aside|<footer|<figure|<video|<span|<p|<g|<svg\",\n\n\t// this signals when tags should be unindented (see tags above)\n\t\"tag_unindent\":\n\t\"\\\\{% end|</html|</head|</body|</div|</a|</nav|</ul|</ol|</dl|</li|</table|</thead|</tbody|</tr|</th|</td|</blockquote|</select|</form|</option|</optgroup|</fieldset|</legend|</label|</header|</main|</section|</aside|</footer|</figure|</video|</span|</p|</g|</svg\",\n\n\t// these tags should be unindented and next line will be indented\n\t\"tag_unindent_line\":\n\t\"\\\\{% else\",\n\n\t// these tags can sometimes be on one line (see example below)\n\t\"tag_pos_inline\":\n\t\"\\\\{% if.*endif %\\\\}|\\\\{% block.*endblock %\\\\}|<link.*/>|<link.*\\\">|<link.*>|<meta.*/>|<script.*</script>|<div.*</div>|<a.*</a>|<li.*</li>|<dt.*</dt>|<dd.*</dd>|<th.*</th>|<td.*</td>|<legend.*</legend>|<label.*</label>|<option.*</option>|<input.*/>|<input.*\\\">|<span.*</span>|<p.*</p>|<path.*/>|<!--.*-->\",\n\n\t// example (li):\n\t// <ul>\n\t// \t<li><span>inline</span></li>\t<!-- <li> and </li> on same line, script ignores indenting next line -->\n\t// \t<li> \t\t\t\t\t\t\t\t\t\t\t\t\t<!-- <li> and </li> on different lines, script indents next line -->\n\t// \t\t<p>expanded</p>\n\t// \t</li>\n\t// </ul>\n\n\t// these tags use raw code and should flatten to column 1\n\t// tabs will be removed inside these tags! use spaces for spacing if needed!\n\t// example: \"<pre|<script\" and \"</pre|</script\"\n\t// flatten starting with this tag...\n\t\"tag_raw_flat_opening\":\n\t\"<pre\",\n\t// ...stop flattening when you encounter this tag\n\t\"tag_raw_flat_closing\":\n\t\"</pre\",\n\n\t// set true to remove empty line\n\t\"remove_extraline\": true,\n\n\t// format on save\n\t\"format_on_save\": false\n}\n",
+					"file": "/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+					"file_size": -1,
+					"file_write_time": -1,
+					"settings":
+					{
+						"buffer_size": 2153,
+						"line_ending": "Windows",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"file": "/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/User/HTMLBeautify.sublime-settings",
+					"settings":
+					{
+						"buffer_size": 28,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"php",
+						"phpfmt: toggle PSR1"
+					],
+					[
+						"mini",
+						"Minify Javascript/CSS to file"
+					],
+					[
+						"l",
+						"LoremIpsum: (15) some"
+					],
+					[
+						"auto",
+						"Autoprefix CSS"
+					],
+					[
+						"autof",
+						"Autoprefix CSS"
+					],
+					[
+						"html",
+						"HTML: Encode Special Characters"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 157.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib2,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation') ",
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/xampp/htdocs/sys-savings",
+				"/D/xampp/htdocs/sys-savings/application",
+				"/D/xampp/htdocs/sys-savings/application/controllers",
+				"/D/xampp/htdocs/sys-savings/application/controllers/administrator",
+				"/D/xampp/htdocs/sys-savings/application/views",
+				"/D/xampp/htdocs/sys-savings/application/views/administrator",
+				"/D/xampp/htdocs/sys-savings/application/views/administrator/members",
+				"/D/xampp/htdocs/sys-savings/assets",
+				"/D/xampp/htdocs/sys-savings/assets/js"
+			],
+			"file_history":
+			[
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/User/phpfmt.sublime-settings",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/phpfmt/phpfmt.sublime-settings",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/Minifier/Minifier.sublime-settings",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/User/Minifier.sublime-settings",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/AngularJS/AngularJS-sublime-package.sublime-settings",
+				"/D/xampp/htdocs/sys-savings/assets/css/backend/style.css",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/CSS Format/CSS Format.sublime-settings",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/User/CSS Format.sublime-settings",
+				"/D/xampp/htdocs/sys-savings/assets/js/jui-sortable.js",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/JsFormat/JsFormat.sublime-settings",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/User/JsFormat.sublime-settings",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/sublime-config/README.md",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/sublime-config/Packages/phpfmt/phpfmt.sublime-settings",
+				"/D/xampp/htdocs/sys-savings/application/controllers/administrator/Authenticate_admin.php",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/Colorsublime-Themes/Twilight NAKOMAH.tmTheme",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/Colorsublime-Themes/Monokai Bright.tmTheme",
+				"/D/xampp/htdocs/sys-savings/application/views/administrator/members/add.php",
+				"/D/xampp/htdocs/sys-savings/assets/js/app.incomes.validate.js",
+				"/D/xampp/htdocs/sys-savings/application/controllers/administrator/Members_admin.php",
+				"/D/xampp/htdocs/web-mediasalatan/Gruntfile.js",
+				"/D/xampp/htdocs/sys-examine/application/controllers/role-user/Question_user.php",
+				"/D/xampp/htdocs/web-ascarrentphuket/application/config/hooks.php",
+				"/D/xampp/htdocs/web-ascarrentphuket/application/hooks/LanguageLoader.php",
+				"/D/xampp/htdocs/web-ascarrentphuket/application/config/config.php",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Local/Temp/fz3temp-2/database.php",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Local/Temp/fz3temp-2/index.php",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/vscode-config/settings.json",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/vscode-config/snippets/php.json",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/vscode-config/snippets/javascript.json",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/vscode-config/README.md",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/codeignier-mpdf-master/codeignier-mpdf-master/application/libraries/M_pdf.php",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/codeignier-mpdf-master/codeignier-mpdf-master/application/controllers/welcome.php",
+				"/D/xampp/htdocs/web-takbaihospital/application/helpers/general_helper.php",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Local/Temp/fz3temp-2/config.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/authenticate/add.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/authenticate/edit.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/sidebar.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/libraries/Sidemenu.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/Fn_models.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/footer.php",
+				"/D/xampp/htdocs/CI_Excel/application/controllers/Welcome.php",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/User/event.prev.sublime-snippet",
+				"/D/xampp/htdocs/web-ascarrentphuket/assets/ckfile/ckeditor/config.js",
+				"/D/xampp/htdocs/web-ascarrentphuket/application/views/role-admin/car/index.php",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/CI_Excel/README.md",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/MediaElementJS/index.html",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/MediaElementJS/README.md",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/live-radio.php",
+				"/D/xampp/htdocs/web-mediasalatan/assets/html5-audio/js/mediaelementplayer-custom.js",
+				"/D/xampp/htdocs/web-mediasalatan/assets/html5-audio/css/mediaelementplayer-custom.css",
+				"/D/xampp/htdocs/web-mediasalatan/assets/css/frontend/style.css",
+				"/D/xampp/htdocs/web-mediasalatan/assets/html5-audio/css/mediaelementplayer-custom.min.css",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/video/view.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/video/index.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/news/view.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/news/index.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/gallery/view.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/gallery/index.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/banner/view.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/advertising/view.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/article/view.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/article/index.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/menu.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/contact-us.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/controllers/News.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/controllers/Menu.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/config/routes.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/header.php",
+				"/D/xampp/htdocs/web-mediasalatan/assets/css/frontend/mediaelementplayer-radio.css",
+				"/D/xampp/htdocs/web-mediasalatan/assets/js/frontend/mediaelementplayer-radio.js",
+				"/D/xampp/htdocs/html5-audio-player/demo/index.html",
+				"/D/xampp/htdocs/framework/index.php",
+				"/D/xampp/htdocs/framework/js/SSUhtml5Audio.js",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/index.php",
+				"/D/xampp/htdocs/web-mediasalatan/assets/css/flexslider_style.css",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/head.php",
+				"/D/xampp/htdocs/web-mediasalatan/assets/css/frontend/style.min.css",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/index.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/head.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/footer.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/youtube/add.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/youtube/edit.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/news/add.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/news/edit.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/gallery/add.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/gallery/edit.php",
+				"/D/xampp/htdocs/web-nakomah/Gruntfile.js",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/Gallery_models.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/News_models.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/Article_models.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/Advertising_models.php",
+				"/C/Users/NAKOMAH-STUDIO/AppData/Local/Temp/fz3temp-2/.htaccess",
+				"/D/xampp/htdocs/jPlayer-2.9.2/demo.php",
+				"/D/xampp/htdocs/web-mediasalatan/assets/bootstrap/css/bootstrap_none.response.css",
+				"/D/xampp/htdocs/web-mediasalatan/assets/bootstrap/css/bootstrap_none.response.min.css",
+				"/D/xampp/htdocs/web-mediasalatan/application/controllers/ContactUs.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/Menutop_models.php",
+				"/D/xampp/htdocs/web-takbaihospital/application/config/routes.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/config/autoload.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/controllers/Banner.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/navigation.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/controllers/Video.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/Youtube_models.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/helpers/general_helper.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/controllers/Main.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/index_2.php",
+				"/D/xampp/htdocs/web-takbaihospital/application/views/gallery_view.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/controllers/Gallery.php",
+				"/D/xampp/htdocs/web-takbaihospital/application/views/index.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/controllers/Advertising.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/backend/Advertising_models.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/controllers/Article.php",
+				"/D/xampp/htdocs/web-nakomah/application/controllers/Article.php",
+				"/D/xampp/htdocs/web-nakomah/application/models/Article_model.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/controllers/admin/Article_admin.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/article/edit.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/admin/article/add.php",
+				"/D/xampp/htdocs/sys-savings/application/views/administrator/incomes/add.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/models/backend/Article_models.php",
+				"/C/Users/NAKOMAH-STUDIO/Desktop/transfonter.org-20180719-101257/stylesheet.css",
+				"/D/xampp/htdocs/web-mediasalatan/application/config/config.php",
+				"/D/xampp/htdocs/web-mediasalatan/application/views/index3.php",
+				"/D/xampp/htdocs/web-mediasalatan/assets/FlexSlider-2.7.1-0/demo/index.html",
+				"/D/xampp/htdocs/web-takbaihospital/application/views/head.php",
+				"/D/xampp/htdocs/web-takbaihospital/application/views/navigation.php"
+			],
+			"find":
+			{
+				"height": 46.0
+			},
+			"find_in_files":
+			{
+				"height": 157.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"fmt_now"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\xampp\\htdocs\\sys-savings"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/xampp/htdocs/sys-savings/application/controllers/administrator/Members_admin.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 10807,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										123,
+										123
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/xampp/htdocs/sys-savings/application/views/administrator/members/advanced-setting.php",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2436,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2018,
+										2018
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/PHP/PHP.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1350.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/HTMLBeautify/HTMLBeautify.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 2153,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2127,
+										2150
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 828.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/C/Users/NAKOMAH-STUDIO/AppData/Roaming/Sublime Text 3/Packages/User/HTMLBeautify.sublime-settings",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 28,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										26,
+										26
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 46.0
+			},
+			"input":
+			{
+				"height": 57.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,2,3,-1,-1,-1,-1,565,26,26,682",
+			"project": "",
+			"replace":
+			{
+				"height": 88.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"sty",
+						"assets\\css\\backend\\style.css"
+					],
+					[
+						"js",
+						"assets\\js\\jui-sortable.js"
+					],
+					[
+						"app.",
+						"assets\\js\\app.incomes.validate.js"
+					],
+					[
+						"add.php",
+						"application\\views\\administrator\\members\\add.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 592.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 276.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 31,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

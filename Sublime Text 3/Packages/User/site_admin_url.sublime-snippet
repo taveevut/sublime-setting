@@ -1,0 +1,6 @@
+<snippet>
+		<content><![CDATA[site_admin_url('${1:url}');]]></content>
+		<description>URL Helper - site_admin_url</description>
+		<scope>source.php</scope>
+		<tabTrigger>site_admin_url</tabTrigger>
+</snippet>

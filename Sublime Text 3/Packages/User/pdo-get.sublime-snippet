@@ -1,0 +1,12 @@
+<snippet>
+		<content><![CDATA[
+	\$stmt = ${1:\$db_con}->prepare("SELECT * FROM ${2:tbname} WHERE ${3:id} = :${3:id}");
+	\$stmt->bindParam(':${3:id}', \$_POST["${3:\:id}"]);
+	\$stmt->execute();
+	\$rows = \$stmt->fetch(PDO::FETCH_ASSOC)
+	echo \$rows['id'];
+	]]></content>
+		<description>PDO :: Get one record</description>
+		<scope>source.php</scope>
+		<tabTrigger>pdo-get</tabTrigger>
+</snippet>

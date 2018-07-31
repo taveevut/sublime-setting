@@ -1,0 +1,11 @@
+<snippet>
+		<content><![CDATA[
+	\$stmt = ${1:\$db_con}->prepare("SELECT * FROM ${2:tbname} ORDER BY ${3:id} DESC");
+	\$stmt->execute();
+	while (\$rows = \$stmt->fetch(PDO::FETCH_ASSOC)) {
+		echo \$rows['id'];
+	}]]></content>
+		<description>PDO :: Select all values</description>
+		<scope>source.php</scope>
+		<tabTrigger>pdo-select</tabTrigger>
+</snippet>

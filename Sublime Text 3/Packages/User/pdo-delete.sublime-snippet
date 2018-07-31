@@ -1,0 +1,11 @@
+<snippet>
+		<content><![CDATA[
+	\$stmt = ${1:\$db_con}->prepare("DELETE FROM ${2:tbname} WHERE ${3:id} = :${3:id} ");
+	\$stmt->bindParam(':${3:id}', \$_GET["${3:\:id}"]);
+	\$stmt->execute();
+
+	header("Location:".site_url('index.php'));]]></content>
+		<description>PDO :: Delete value</description>
+		<scope>source.php</scope>
+		<tabTrigger>pdo-delete</tabTrigger>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+		<content><![CDATA[
+	\$stmt = ${1:\$db_con}->prepare("SELECT id FROM ${2:tbname}");
+	\$stmt->execute();
+	\$${3:count} = \$stmt->rowCount();]]></content>
+		<description>PDO :: Num rows or Count record</description>
+		<scope>source.php</scope>
+		<tabTrigger>pdo-numrows</tabTrigger>
+</snippet>
